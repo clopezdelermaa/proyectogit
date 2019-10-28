@@ -22,7 +22,7 @@
             <input type="text" name="num1" id="num1" placeholder="Número 1"/>
             <input type="text" name="num2" id="num2" placeholder="Número 2"/>
             <input type="text" name="num3" id="num3" placeholder="Resultado"/>
-            <input type="submit" name="sumar" id="sumar" value="Sumar" onclick="sumar()"/>
+            <input type="button" name="sumar" id="sumar" value="Sumar" onclick="sumar()"/>
         </form>
     </body>
 </html>
