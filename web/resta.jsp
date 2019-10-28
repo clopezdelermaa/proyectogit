@@ -12,7 +12,11 @@
         <title>JSP Page</title>
         <script>
             var n1 = parseInt(prompt("Dame un número"));
+            var n2 = parseInt(prompt("Dame otro número"));
             
+            var sol = n1 - n2;
+            
+            alert("El resultado de restar " + n1 + " y " + n2 + " da como resultado " + sol);
         </script>
             
     </head>
